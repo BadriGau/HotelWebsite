@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+background: url('../img/hotel.jpg'); 
+    background-size: cover;
+    background-position: center center;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+ 
+}
